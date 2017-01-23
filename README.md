@@ -4,7 +4,7 @@ reStyle is a fork of [Stylish](https://github.com/stylish-userstyles/stylish-chr
 
 ## Releases
 
-Releases are available at [the Chrome Web Store](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe) and [the Opera add-ons site](https://addons.opera.com/en/extensions/details/stylish/).
+Releases are available at [the Chrome Web Store](https://chrome.google.com/webstore/detail/restyle/bldnjpcciemkbmbbfpehdmdhiaemidce).
 
 ## Help
 
@@ -12,7 +12,7 @@ See the [help docs](http://userstyles.org/help/stylish_chrome) or [ask in the fo
 
 ## Contributing
 
-The source is hosted on [GitHub](https://github.com/JasonBarnabe/stylish-chrome) and pull requests are welcome. Translations can be done on [Transifex](https://www.transifex.com/projects/p/stylish-for-chrome/) but are welcome as pull requests as well.
+The source is hosted on [GitHub](https://github.com/marcan/restyle) and pull requests are welcome. Translations are welcome as pull requests as well.
 
 ## License
 
