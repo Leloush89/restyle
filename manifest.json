@@ -1,8 +1,8 @@
 {
-	"name": "Stylish",
-	"version": "1.5.2",
+	"name": "reStyle",
+	"version": "1.5.3",
 	"description": "__MSG_description__",
-	"homepage_url": "https://userstyles.org",
+	"homepage_url": "https://github.com/marcan/restyle",
 	"manifest_version": 2,
 	"applications": {
 		"gecko": {
@@ -56,7 +56,7 @@
 			"19": "19w.png",
 			"38": "38w.png"
 		},
-		"default_title": "Stylish",
+		"default_title": "reStyle",
 		"default_popup": "popup.html"
 	},
 	"default_locale": "en"

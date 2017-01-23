@@ -1,4 +1,6 @@
-Stylish - a user style manager for Google Chrome and Opera.
+reStyle - a user style manager for Google Chrome and Opera.
+
+reStyle is a fork of [Stylish](https://github.com/stylish-userstyles/stylish-chrome), without analytics.
 
 ## Releases
 
