@@ -478,7 +478,6 @@ document.addEventListener("DOMContentLoaded", function() {
 		"manage.onlyEdited",
 		"show-badge",
 		"popup.stylesFirst",
-		"analyticsEnabled"
 	]);
 	initFilter("enabled-only", document.getElementById("manage.onlyEnabled"));
 	initFilter("edited-only", document.getElementById("manage.onlyEdited"));
